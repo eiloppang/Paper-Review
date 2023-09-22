@@ -33,7 +33,7 @@ _💎GameBot에 사용되는 알고리즘💎 - natural language understanding(N
 
 **5. Architecture**
 
-![Architecture](./image/Gamebot_visualization_architecture.png)
+![Architecture](../../Upload_image/Gamebot_visualization_architecture.png)
 
 - Characterized fans’ comments into six themes
   - Player/team Appraisal
