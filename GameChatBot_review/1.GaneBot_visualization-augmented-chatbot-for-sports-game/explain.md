@@ -59,3 +59,5 @@ _💎GameBot에 사용되는 알고리즘💎 - natural language understanding(N
   - 6. User interface
 
 - back-end(for creating visualizations and communicates): javascript with D3.js + back-end(runs the data collection): Python 
+
+- [rule-based word matching](https://www.google.com/search?q=rule-based+word+matching&oq=rule-&gs_lcrp=EgZjaHJvbWUqCAgBEEUYJxg7MgYIABBFGDkyCAgBEEUYJxg7MgcIAhAAGIAEMgcIAxAAGIAEMgcIBBAAGIAEMgYIBRBFGDwyBggGEEUYPDIGCAcQRRg80gEINDUwMmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8)
